@@ -1,0 +1,11 @@
+D:\Projetos\Ayres\NetCore\xUnit\Produtos\bin\Debug\net8.0\Produtos.deps.json
+D:\Projetos\Ayres\NetCore\xUnit\Produtos\bin\Debug\net8.0\Produtos.dll
+D:\Projetos\Ayres\NetCore\xUnit\Produtos\bin\Debug\net8.0\Produtos.pdb
+D:\Projetos\Ayres\NetCore\xUnit\Produtos\obj\Debug\net8.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Ayres\NetCore\xUnit\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfoInputs.cache
+D:\Projetos\Ayres\NetCore\xUnit\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfo.cs
+D:\Projetos\Ayres\NetCore\xUnit\Produtos\obj\Debug\net8.0\Produtos.csproj.CoreCompileInputs.cache
+D:\Projetos\Ayres\NetCore\xUnit\Produtos\obj\Debug\net8.0\Produtos.dll
+D:\Projetos\Ayres\NetCore\xUnit\Produtos\obj\Debug\net8.0\refint\Produtos.dll
+D:\Projetos\Ayres\NetCore\xUnit\Produtos\obj\Debug\net8.0\Produtos.pdb
+D:\Projetos\Ayres\NetCore\xUnit\Produtos\obj\Debug\net8.0\ref\Produtos.dll
